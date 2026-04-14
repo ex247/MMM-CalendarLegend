@@ -15,6 +15,11 @@ This module listens for `CALENDAR_EVENTS` notifications from the default `calend
 * Customizable styling
 
 ---
+## 📷 Screenshot
+<img width="669" height="42" alt="MMM-CalendarLegend-Screenshot" src="https://github.com/user-attachments/assets/36b745ed-ea21-42f2-961c-e4645cfc23de" />
+
+
+---
 
 ## 📦 Installation
 
