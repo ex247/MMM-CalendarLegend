@@ -25,7 +25,7 @@ This module listens for `CALENDAR_EVENTS` notifications from the default `calend
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/yourusername/MMM-CalendarLegend.git
+git clone https://github.com/ex247/MMM-CalendarLegend.git
 ```
 
 ---
