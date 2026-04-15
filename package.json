@@ -1,0 +1,34 @@
+{
+  "name": "mmm-calendarlegend",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module that displays a color-coded legend for calendar feeds.",
+  "main": "MMM-CalendarLegend.js",
+  "author": "ex247",
+  "license": "MIT",
+  "keywords": [
+    "magicmirror",
+    "magicmirror-module",
+    "calendar",
+    "legend",
+    "display"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex247/MMM-CalendarLegend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ex247/MMM-CalendarLegend/issues"
+  },
+  "homepage": "https://github.com/ex247/MMM-CalendarLegend#readme",
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
+  }
+}
