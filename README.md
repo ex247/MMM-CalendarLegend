@@ -62,7 +62,7 @@ Add this to your `config.js`:
     defaultColor: "#999",
     updateDelay: 0
   }
-}
+},
 ```
 
 ---
@@ -84,10 +84,18 @@ Add this to your `config.js`:
 calendars: [
   { name: "Work", color: "#ff0000" },
   { name: "Family", color: "#00ff00" }
-]
+],
 ```
 
 These will be displayed even if there are no active events.
+
+---
+
+## Update
+
+Navigate into the `MMM-CalendarLegend` folder with cd ~/MagicMirror/modules/MMM-CalendarLegend and get the latest code from Github with `git pull`.
+
+If you haven't changed the modules, this should work without any problems. Type `git status` to see your changes, if there are any, you can reset them with `git reset --hard`. After that, `git pull` should be possible.
 
 ---
 
